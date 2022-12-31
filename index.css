@@ -5,7 +5,7 @@
 body {
     min-height: 10vh;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     font-size: 12px;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -50,6 +50,7 @@ color: hsl(228, 12%, 48%);;
 
 .img {
     align-items: center;
+    margin: auto;
 }
 
 .img,.fix {
