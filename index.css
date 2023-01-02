@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #card {
     background-color: hsl(0, 0%, 100%);
 }
@@ -90,5 +96,5 @@ html {
     display: block;
     height: 767px;
     width: 726px;
-
 }
+
